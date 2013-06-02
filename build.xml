@@ -1,0 +1,24 @@
+<project default="build">
+	<target name="compile">
+		<mkdir dir="class"/>
+		<javac srcdir="src" destdir="class">
+			<classpath>
+				<fileset dir="./bin/domination_lib/">
+					<include name="*.jar"/>
+				</fileset>
+			</classpath>
+		</javac>
+	</target>
+
+	<target name="jar" depends="compile">
+		<jar destfile="./bin/domination.jar"
+			basedir="./class/"
+			includes="**/*.class"
+			manifest="MANIFEST.MF"
+			/>
+	</target>
+
+	<target name="build" depends="compile,jar" />
+
+</project>
+

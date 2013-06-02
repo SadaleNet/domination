@@ -1,0 +1,110 @@
+Manifest-Version: 1.0
+Class-Path: . domination_lib/jogl.glmobile.dbg.jar domination_lib/newt
+ -natives-solaris-amd64.jar domination_lib/joal-natives-solaris-i586.j
+ ar domination_lib/jogl-all-natives-windows-amd64.jar domination_lib/g
+ luegen-rt-natives-linux-armv7hf.jar domination_lib/jogl.os.x11.jar do
+ mination_lib/newt-natives-linux-i586.jar domination_lib/jogl-all-nati
+ ves-windows-i586.jar domination_lib/joal-natives-windows-amd64.jar do
+ mination_lib/gluegen-rt-natives-linux-armv7.jar domination_lib/newt.d
+ river.broadcomegl.jar domination_lib/joal-natives-windows-i586.jar do
+ mination_lib/joal-natives-linux-amd64.jar domination_lib/newt-natives
+ -windows-amd64.jar domination_lib/nativewindow-natives-windows-i586.j
+ ar domination_lib/jogl.all-mobile.jar domination_lib/jogl_cg-natives-
+ linux-armv7_2.jar domination_lib/jogl.core.jar domination_lib/newt.dr
+ iver.macosx.jar domination_lib/nativewindow-natives-linux-armv7hf_2.j
+ ar domination_lib/jogl-natives-solaris-amd64_2.jar domination_lib/new
+ t-natives-android-armv7_2.jar domination_lib/jogl-natives-macosx-univ
+ ersal.jar domination_lib/newt-natives-linux-amd64.jar domination_lib/
+ jocl-natives-linux-armv7.jar domination_lib/jogl_cg-natives-linux-arm
+ v7hf_2.jar domination_lib/nativewindow-natives-solaris-amd64_2.jar do
+ mination_lib/joal-natives-linux-i586.jar domination_lib/newt.driver.a
+ ndroid.jar domination_lib/jogl_cg-natives-windows-amd64.jar dominatio
+ n_lib/jogl-natives-linux-i586_2.jar domination_lib/jocl-natives-windo
+ ws-amd64.jar domination_lib/jocl-natives-linux-amd64.jar domination_l
+ ib/nativewindow-natives-android-armv7_2.jar domination_lib/nativewind
+ ow-natives-linux-i586.jar domination_lib/newt-natives-windows-i586.ja
+ r domination_lib/jogl_cg-natives-macosx-universal.jar domination_lib/
+ joal-natives-macosx-universal.jar domination_lib/jocl-natives-macosx-
+ universal.jar domination_lib/nativewindow-natives-solaris-i586_2.jar 
+ domination_lib/jocl-natives-android-armv7.jar domination_lib/newt.ogl
+ .jar domination_lib/newt.driver.kd.jar domination_lib/jogl-all-native
+ s-linux-amd64.jar domination_lib/jogl-all-natives-macosx-universal.ja
+ r domination_lib/nativewindow-natives-solaris-i586.jar domination_lib
+ /jogl.util.fixedfuncemu.jar domination_lib/newt-natives-linux-armv7_2
+ .jar domination_lib/jogl-all-natives-solaris-amd64.jar domination_lib
+ /gluegen-rt-natives-windows-i586.jar domination_lib/nativewindow.os.w
+ in.jar domination_lib/gluegen-rt-natives-solaris-i586.jar domination_
+ lib/jogl_cg-natives-solaris-i586_2.jar domination_lib/jogl.os.win.jar
+  domination_lib/jogl-all-natives-linux-armv7.jar domination_lib/jogl.
+ omx.jar domination_lib/nativewindow-natives-windows-amd64.jar dominat
+ ion_lib/jocl-natives-solaris-i586.jar domination_lib/jogl.gldesktop.d
+ bg.jar domination_lib/jogl-natives-windows-i586_2.jar domination_lib/
+ jogl_cg-natives-linux-i586_2.jar domination_lib/newt-natives-macosx-u
+ niversal_2.jar domination_lib/newt.driver.intelgdl.jar domination_lib
+ /jogl-all-natives-android-armv7.jar domination_lib/newt-natives-windo
+ ws-i586_2.jar domination_lib/joal.jar domination_lib/org.eclipse.equi
+ nox.common_3.6.0.dist.jar domination_lib/newt-natives-linux-armv7hf.j
+ ar domination_lib/jogl-natives-windows-amd64_2.jar domination_lib/nat
+ ivewindow-natives-linux-i586_2.jar domination_lib/newt-natives-androi
+ d-armv7.jar domination_lib/jocl-natives-solaris-amd64.jar domination_
+ lib/gluegen-rt-natives-macosx-universal.jar domination_lib/jogl-nativ
+ es-android-armv7.jar domination_lib/newt.awt.jar domination_lib/jogl.
+ all.jar domination_lib/newt-natives-linux-i586_2.jar domination_lib/j
+ ogl.glu.mipmap.jar domination_lib/nativewindow.os.x11.jar domination_
+ lib/jogl.test.jar domination_lib/jogl-natives-macosx-universal_2.jar 
+ domination_lib/newt.core.jar domination_lib/jogl-natives-linux-armv7h
+ f_2.jar domination_lib/jocl-natives-linux-armv7hf.jar domination_lib/
+ jogl-all-natives-solaris-i586.jar domination_lib/jogl_cg-natives-andr
+ oid-armv7.jar domination_lib/jogl-natives-windows-i586.jar domination
+ _lib/nativewindow-natives-macosx-universal.jar domination_lib/jogl-na
+ tives-linux-armv7_2.jar domination_lib/newt-natives-solaris-amd64_2.j
+ ar domination_lib/joal-natives-linux-armv7.jar domination_lib/nativew
+ indow.os.macosx.jar domination_lib/jogl-natives-linux-i586.jar domina
+ tion_lib/jogl.awt.jar domination_lib/nativewindow.core.jar domination
+ _lib/jogl.glu.gldesktop.jar domination_lib/newt.event.jar domination_
+ lib/joal-natives-android-armv7.jar domination_lib/newt-natives-solari
+ s-i586.jar domination_lib/jogl-natives-linux-armv7hf.jar domination_l
+ ib/jogl.all-noawt.jar domination_lib/jogl_cg-natives-solaris-amd64_2.
+ jar domination_lib/jogl-all-natives-linux-armv7hf.jar domination_lib/
+ jogl-natives-solaris-i586.jar domination_lib/jogl_cg-natives-solaris-
+ i586.jar domination_lib/nativewindow-natives-windows-amd64_2.jar domi
+ nation_lib/org.eclipse.core.runtime_3.7.0.dist.jar domination_lib/jog
+ l-all-natives-linux-i586.jar domination_lib/joal-natives-solaris-amd6
+ 4.jar domination_lib/nativewindow-natives-windows-i586_2.jar dominati
+ on_lib/jogl.swt.jar domination_lib/gluegen-rt-natives-solaris-amd64.j
+ ar domination_lib/org.eclipse.core.commands_3.6.0.dist.jar domination
+ _lib/gluegen-rt-natives-android-armv7.jar domination_lib/jogl.util.gl
+ desktop.jar domination_lib/jogl.glmobile.jar domination_lib/jogl-nati
+ ves-solaris-i586_2.jar domination_lib/jocl.jar domination_lib/jogl-na
+ tives-linux-amd64.jar domination_lib/joal-test.jar domination_lib/jog
+ l_cg-natives-windows-amd64_2.jar domination_lib/nativewindow-natives-
+ android-armv7.jar domination_lib/jogl_cg-natives-linux-amd64.jar domi
+ nation_lib/newt-natives-windows-amd64_2.jar domination_lib/newt-nativ
+ es-linux-armv7hf_2.jar domination_lib/jogl.gldesktop.jar domination_l
+ ib/nativewindow.awt.jar domination_lib/jogl-natives-android-armv7_2.j
+ ar domination_lib/jogl_cg-natives-windows-i586.jar domination_lib/glu
+ egen-rt-natives-linux-i586.jar domination_lib/jogl_cg-natives-linux-a
+ rmv7.jar domination_lib/jogl_cg-natives-linux-i586.jar domination_lib
+ /gluegen-rt-natives-windows-amd64.jar domination_lib/nativewindow-nat
+ ives-linux-armv7_2.jar domination_lib/jogl.os.osx.jar domination_lib/
+ joal-natives-linux-armv7hf.jar domination_lib/nativewindow-natives-li
+ nux-armv7.jar domination_lib/jogl_cg-natives-solaris-amd64.jar domina
+ tion_lib/jogl_cg-natives-android-armv7_2.jar domination_lib/jogl.sdk.
+ jar domination_lib/gluegen.jar domination_lib/gluegen-rt-natives-linu
+ x-amd64.jar domination_lib/jogl_cg-natives-linux-armv7hf.jar dominati
+ on_lib/nativewindow-natives-solaris-amd64.jar domination_lib/jocl-nat
+ ives-windows-i586.jar domination_lib/newt-natives-macosx-universal.ja
+ r domination_lib/gluegen-gl.jar domination_lib/newt-natives-linux-arm
+ v7.jar domination_lib/jocl-natives-linux-i586.jar domination_lib/jogl
+ -natives-linux-armv7.jar domination_lib/jogl.util.awt.jar domination_
+ lib/newt.driver.win.jar domination_lib/newt.driver.x11.jar domination
+ _lib/jogl.glu.tess.jar domination_lib/jogl-natives-windows-amd64.jar 
+ domination_lib/jogl_cg-natives-windows-i586_2.jar domination_lib/glue
+ gen-rt.jar domination_lib/jogl_cg-natives-macosx-universal_2.jar domi
+ nation_lib/nativewindow-natives-linux-amd64.jar domination_lib/newt-n
+ atives-solaris-i586_2.jar domination_lib/nativewindow-natives-macosx-
+ universal_2.jar domination_lib/jogl-natives-solaris-amd64.jar dominat
+ ion_lib/nativewindow-natives-linux-armv7hf.jar domination_lib/jogl.cg
+ .jar domination_lib/jogl.util.jar
+Main-Class: GUI.Domination
+
